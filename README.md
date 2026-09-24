@@ -21,7 +21,7 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=codeinedark77&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
+[![Profile Views](views.svg)](https://github.com/codeinedark77)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/codeinedark77?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/codeinedark77?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/codeinedark77?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
@@ -88,16 +88,16 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
   <a href="https://github.com/codeinedark77/kiln">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeinedark77&repo=kiln&theme=radical" />
+    <img src="https://gh-card.dev/repos/codeinedark77/kiln.svg" />
   </a>
   <a href="https://github.com/codeinedark77/eBPF-Kernel-Security">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeinedark77&repo=eBPF-Kernel-Security&theme=radical" />
+    <img src="https://gh-card.dev/repos/codeinedark77/eBPF-Kernel-Security.svg" />
   </a>
   <a href="https://github.com/codeinedark77/turboquant-lite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeinedark77&repo=turboquant-lite&theme=radical" />
+    <img src="https://gh-card.dev/repos/codeinedark77/turboquant-lite.svg" />
   </a>
   <a href="https://github.com/codeinedark77/local-secret-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeinedark77&repo=local-secret-scanner&theme=radical" />
+    <img src="https://gh-card.dev/repos/codeinedark77/local-secret-scanner.svg" />
   </a>
 </div>
 
@@ -107,12 +107,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=codeinedark77&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeinedark77&theme=radical" width="48%" />
-
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeinedark77&layout=compact&theme=radical" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=codeinedark77&theme=radical&no-frame=true&no-bg=true" width="48%" />
 
 </div>
@@ -147,12 +142,12 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeinedark77&theme=radical)](https://github.com/codeinedark77)
+<img src="profile-summary-cards-output/radical/0-profile-details.svg" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeinedark77&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeinedark77&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeinedark77&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeinedark77&theme=radical&utcOffset=5.5" />
+<img src="profile-summary-cards-output/radical/1-repos-per-language.svg" />
+<img src="profile-summary-cards-output/radical/2-most-commit-language.svg" />
+<img src="profile-summary-cards-output/radical/3-stats.svg" />
+<img src="profile-summary-cards-output/radical/4-productive-time.svg" />
 
 </div>
 
@@ -163,7 +158,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeinedark77&bg_color=141321&color=f85d7f&line=f85d7f&point=f85d7f&area=true&area_color=141321&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
