@@ -139,3 +139,39 @@ fact     : I write storage engines and kernel modules for fun. ⚡
   <i>"The difference between theory and practice is smaller in theory than it is in practice."</i>
 
 </div>
+
+---
+
+<!-- PROFILE SUMMARY -->
+## 📦 Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeinedark77&theme=radical)](https://github.com/codeinedark77)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeinedark77&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeinedark77&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeinedark77&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeinedark77&theme=radical&utcOffset=5.5" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeinedark77&bg_color=141321&color=f85d7f&line=f85d7f&point=f85d7f&area=true&area_color=141321&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20stopping%20by!%20⭐%20Star%20something%20if%20you%20liked%20it&fontSize=16&fontColor=a78bfa&animation=fadeIn&fontAlignY=70" width="100%" />
+
+</div>
