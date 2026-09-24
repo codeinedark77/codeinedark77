@@ -142,12 +142,12 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-<img src="profile-summary-cards-output/radical/0-profile-details.svg" />
+<img src="profile-summary-card-output/radical/0-profile-details.svg" />
 
-<img src="profile-summary-cards-output/radical/1-repos-per-language.svg" />
-<img src="profile-summary-cards-output/radical/2-most-commit-language.svg" />
-<img src="profile-summary-cards-output/radical/3-stats.svg" />
-<img src="profile-summary-cards-output/radical/4-productive-time.svg" />
+<img src="profile-summary-card-output/radical/1-repos-per-language.svg" />
+<img src="profile-summary-card-output/radical/2-most-commit-language.svg" />
+<img src="profile-summary-card-output/radical/3-stats.svg" />
+<img src="profile-summary-card-output/radical/4-productive-time.svg" />
 
 </div>
 

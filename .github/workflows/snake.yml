@@ -30,4 +30,5 @@ jobs:
           mv dist/* .
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
           git commit -m "chore: update snake graph" || echo "No changes to commit"
+          git pull --rebase
           git push
