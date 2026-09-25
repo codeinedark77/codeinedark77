@@ -114,11 +114,18 @@ fact     : I write storage engines and kernel modules for fun.
 ## Selected Engineering Projects
 
 <div align="center">
-  <a href="https://github.com/codeinedark77/helios">
-    <img src="https://gh-card.dev/repos/codeinedark77/helios.svg" />
+  <a href="https://github.com/codeinedark77/industrial-anomaly-detector">
+    <img src="https://gh-card.dev/repos/codeinedark77/industrial-anomaly-detector.svg" />
   </a>
-  <a href="https://github.com/codeinedark77/kiln">
-    <img src="https://gh-card.dev/repos/codeinedark77/kiln.svg" />
+  <a href="https://github.com/codeinedark77/aqi-data-pipeline">
+    <img src="https://gh-card.dev/repos/codeinedark77/aqi-data-pipeline.svg" />
+  </a>
+  <a href="https://github.com/codeinedark77/helios-3d-renderer">
+    <img src="https://gh-card.dev/repos/codeinedark77/helios-3d-renderer.svg" />
+  </a>
+  <br/>
+  <a href="https://github.com/codeinedark77/kiln-storage-engine">
+    <img src="https://gh-card.dev/repos/codeinedark77/kiln-storage-engine.svg" />
   </a>
   <a href="https://github.com/codeinedark77/eBPF-Kernel-Security">
     <img src="https://gh-card.dev/repos/codeinedark77/eBPF-Kernel-Security.svg" />
