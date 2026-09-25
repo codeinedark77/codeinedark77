@@ -55,7 +55,7 @@ fact     : I write storage engines and kernel modules for fun.
 - Built **eBPF-Kernel-Security** — Ring-0 and Ring-3 kernel modules in C.
 - Engineered **Kiln** — High-performance concurrent B+Tree storage engine in Go.
 - Implemented **TurboQuant-Lite** — Mathematical KV-Cache compression for PyTorch LLMs.
-- Created **local-secret-scanner** — Blazing fast local secret scanner in Rust.
+- Created **local-secret-scanner** — High-throughput local secret scanner in Rust.
 - Building **Agentic_** — Multi-agent swarm intelligence OS.
 
 <br clear="right"/>
@@ -111,7 +111,7 @@ fact     : I write storage engines and kernel modules for fun.
 
 ---
 
-## Featured God-Tier Projects
+## Selected Engineering Projects
 
 <div align="center">
   <a href="https://github.com/codeinedark77/helios">
