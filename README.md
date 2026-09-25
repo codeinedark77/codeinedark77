@@ -12,7 +12,7 @@
 <!-- TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+complex+hardware-level+systems;C+%7C+Go+%7C+Rust+%7C+PyTorch;Turning+compute+limits+into+performance+art+%F0%9F%A4%96;Open+to+exciting+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+complex+hardware-level+systems;C+%7C+Go+%7C+Rust+%7C+PyTorch;Turning+compute+limits+into+performance+art;Open+to+exciting+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/codeinedark77?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/codeinedark77?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/codeinedark77?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
-![Location](https://img.shields.io/badge/📍-Pune%2C%20India-a78bfa?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Pune%2C%20India-a78bfa?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -36,7 +36,7 @@
 <!-- ABOUT ME -->
 <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 name     : Yash Kandhare
@@ -44,28 +44,28 @@ role     : Systems & ML Engineer
 location : Pune, India
 current  : Building High-Performance Kernel Modules & LLM Infrastructure
 building : Agentic OS · B+Tree Storage Engines · Hardware Optimization
-stack    : C · C++ · Rust · Go · Python · PyTorch · Assembly
+stack    : C · C++ · Rust · Go · Python · PyTorch
 learning : Low-level x86 Architecture & Distributed Systems
 contact  : yashkandhare@gmail.com
-fact     : I write storage engines and kernel modules for fun. ⚡
+fact     : I write storage engines and kernel modules for fun.
 ```
 
 <br/>
 
-- 🛡️ &nbsp;Built **eBPF-Kernel-Security** — Ring-0 and Ring-3 kernel modules in C.
-- ⚡ &nbsp;Engineered **Kiln** — High-performance concurrent B+Tree storage engine in Go.
-- 🧠 &nbsp;Implemented **TurboQuant-Lite** — Mathematical KV-Cache compression for PyTorch LLMs.
-- 🔍 &nbsp;Created **local-secret-scanner** — Blazing fast local secret scanner in Rust.
-- 🤖 &nbsp;Building **Agentic_** — Multi-agent swarm intelligence OS.
+- Built **eBPF-Kernel-Security** — Ring-0 and Ring-3 kernel modules in C.
+- Engineered **Kiln** — High-performance concurrent B+Tree storage engine in Go.
+- Implemented **TurboQuant-Lite** — Mathematical KV-Cache compression for PyTorch LLMs.
+- Created **local-secret-scanner** — Blazing fast local secret scanner in Rust.
+- Building **Agentic_** — Multi-agent swarm intelligence OS.
 
 <br clear="right"/>
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Core
+### Languages & Core
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -75,7 +75,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🧠 AI, ML & Data Engineering
+### AI, ML & Data Engineering
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -90,7 +90,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 ![NLTK](https://img.shields.io/badge/NLTK-150458?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🏗️ Frameworks & Backend
+### Frameworks & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -99,7 +99,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-### ⚙️ Systems & Architecture
+### Systems & Architecture
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -111,7 +111,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 ---
 
-## 🚀 Featured God-Tier Projects
+## Featured God-Tier Projects
 
 <div align="center">
   <a href="https://github.com/codeinedark77/kiln">
@@ -130,7 +130,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -141,7 +141,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -165,7 +165,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 ---
 
 <!-- PROFILE SUMMARY -->
-## 📦 Profile Summary
+## Profile Summary
 
 <div align="center">
 
@@ -188,14 +188,14 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-## ⚡ Live Activity Feed
+## Live Activity Feed
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 🌆 3D Contribution City
+## 3D Contribution City
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
@@ -203,7 +203,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -216,6 +216,6 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20stopping%20by!%20⭐%20Star%20something%20if%20you%20liked%20it&fontSize=16&fontColor=a78bfa&animation=fadeIn&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0d1a&height=130&section=footer&text=Thanks%20for%20stopping%20by!%20Star%20something%20if%20you%20liked%20it&fontSize=16&fontColor=a78bfa&animation=fadeIn&fontAlignY=70" width="100%" />
 
 </div>
