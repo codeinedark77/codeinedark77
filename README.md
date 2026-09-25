@@ -21,7 +21,7 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Profile Views](views.svg?v=1)](https://github.com/codeinedark77)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=codeinedark77&style=flat-square&color=a78bfa)](https://github.com/codeinedark77)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/codeinedark77?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/codeinedark77?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/codeinedark77?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
