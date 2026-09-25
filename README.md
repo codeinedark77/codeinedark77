@@ -142,18 +142,40 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-<img src="profile-summary-card-output/radical/0-profile-details.svg?v=1" />
-
-<img src="profile-summary-card-output/radical/1-repos-per-language.svg?v=1" />
-<img src="profile-summary-card-output/radical/2-most-commit-language.svg?v=1" />
-<img src="profile-summary-card-output/radical/3-stats.svg?v=1" />
-<img src="profile-summary-card-output/radical/4-productive-time.svg?v=1" />
+<table align="center" border="0" cellpadding="0" cellspacing="5" style="background-color: transparent;">
+  <tr>
+    <td colspan="2" align="center"><img src="profile-summary-card-output/radical/0-profile-details.svg?v=1" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="profile-summary-card-output/radical/1-repos-per-language.svg?v=1" /></td>
+    <td align="center"><img src="profile-summary-card-output/radical/2-most-commit-language.svg?v=1" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="profile-summary-card-output/radical/3-stats.svg?v=1" /></td>
+    <td align="center"><img src="profile-summary-card-output/radical/4-productive-time.svg?v=1" /></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
 <!-- CONTRIBUTION GRAPH -->
+## ⚡ Live Activity Feed
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🌆 3D Contribution City
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
