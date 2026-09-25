@@ -114,6 +114,9 @@ fact     : I write storage engines and kernel modules for fun.
 ## Featured God-Tier Projects
 
 <div align="center">
+  <a href="https://github.com/codeinedark77/helios">
+    <img src="https://gh-card.dev/repos/codeinedark77/helios.svg" />
+  </a>
   <a href="https://github.com/codeinedark77/kiln">
     <img src="https://gh-card.dev/repos/codeinedark77/kiln.svg" />
   </a>
