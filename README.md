@@ -171,15 +171,15 @@ fact     : I write storage engines and kernel modules for fun.
 
 <table align="center" border="0" cellpadding="0" cellspacing="5" style="background-color: transparent;">
   <tr>
-    <td colspan="2" align="center"><img src="profile-summary-card-output/radical/0-profile-details.svg?v=1" /></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-summary-card-output/radical/0-profile-details.svg" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="profile-summary-card-output/radical/1-repos-per-language.svg?v=1" /></td>
-    <td align="center"><img src="profile-summary-card-output/radical/2-most-commit-language.svg?v=1" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-summary-card-output/radical/1-repos-per-language.svg" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-summary-card-output/radical/2-most-commit-language.svg" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="profile-summary-card-output/radical/3-stats.svg?v=1" /></td>
-    <td align="center"><img src="profile-summary-card-output/radical/4-productive-time.svg?v=1" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-summary-card-output/radical/3-stats.svg" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-summary-card-output/radical/4-productive-time.svg" /></td>
   </tr>
 </table>
 
@@ -198,7 +198,7 @@ fact     : I write storage engines and kernel modules for fun.
 ## 3D Contribution City
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
@@ -207,7 +207,7 @@ fact     : I write storage engines and kernel modules for fun.
 
 <div align="center">
 
-<img src="github-contribution-grid-snake-dark.svg?v=1" width="100%" />
+<img src="https://raw.githubusercontent.com/codeinedark77/codeinedark77/main/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
