@@ -123,9 +123,6 @@ fact     : I write storage engines and kernel modules for fun.
   <a href="https://github.com/codeinedark77/turboquant-lite">
     <img src="https://gh-card.dev/repos/codeinedark77/turboquant-lite.svg" />
   </a>
-  <a href="https://github.com/codeinedark77/local-secret-scanner">
-    <img src="https://gh-card.dev/repos/codeinedark77/local-secret-scanner.svg" />
-  </a>
 </div>
 
 ---
@@ -135,7 +132,6 @@ fact     : I write storage engines and kernel modules for fun.
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeinedark77&theme=radical" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=codeinedark77&theme=radical&no-frame=true&no-bg=true" width="48%" />
 
 </div>
 
@@ -187,13 +183,6 @@ fact     : I write storage engines and kernel modules for fun.
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## Live Activity Feed
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 3D Contribution City
 
