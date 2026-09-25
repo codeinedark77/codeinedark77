@@ -21,7 +21,7 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-[![Profile Views](views.svg)](https://github.com/codeinedark77)&nbsp;
+[![Profile Views](views.svg?v=1)](https://github.com/codeinedark77)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/codeinedark77?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/codeinedark77?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/codeinedark77?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
@@ -142,12 +142,12 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-<img src="profile-summary-card-output/radical/0-profile-details.svg" />
+<img src="profile-summary-card-output/radical/0-profile-details.svg?v=1" />
 
-<img src="profile-summary-card-output/radical/1-repos-per-language.svg" />
-<img src="profile-summary-card-output/radical/2-most-commit-language.svg" />
-<img src="profile-summary-card-output/radical/3-stats.svg" />
-<img src="profile-summary-card-output/radical/4-productive-time.svg" />
+<img src="profile-summary-card-output/radical/1-repos-per-language.svg?v=1" />
+<img src="profile-summary-card-output/radical/2-most-commit-language.svg?v=1" />
+<img src="profile-summary-card-output/radical/3-stats.svg?v=1" />
+<img src="profile-summary-card-output/radical/4-productive-time.svg?v=1" />
 
 </div>
 
@@ -158,7 +158,7 @@ fact     : I write storage engines and kernel modules for fun. ⚡
 
 <div align="center">
 
-<img src="github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="github-contribution-grid-snake-dark.svg?v=1" width="100%" />
 
 </div>
 
