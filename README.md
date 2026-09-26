@@ -46,7 +46,7 @@ current  : Building High-Performance Kernel Modules & LLM Infrastructure
 building : Agentic OS · B+Tree Storage Engines · Hardware Optimization
 stack    : C · C++ · Rust · Go · Python · PyTorch
 learning : Low-level x86 Architecture & Distributed Systems
-contact  : yashkandhare@gmail.com
+contact  : yashkandhare [at] gmail [dot] com
 fact     : I write storage engines and kernel modules for fun.
 ```
 
@@ -55,8 +55,8 @@ fact     : I write storage engines and kernel modules for fun.
 - Built **eBPF-Kernel-Security** — Ring-0 and Ring-3 kernel modules in C.
 - Engineered **Kiln** — High-performance concurrent B+Tree storage engine in Go.
 - Implemented **TurboQuant-Lite** — Mathematical KV-Cache compression for PyTorch LLMs.
-- Created **local-secret-scanner** — High-throughput local secret scanner in Rust.
-- Building **Agentic_** — Multi-agent swarm intelligence OS.
+- Created **[local-secret-scanner](https://github.com/codeinedark77/local-secret-scanner)** — High-throughput local secret scanner in Rust.
+- Building **[Agentic_](https://github.com/codeinedark77/Agentic_)** — Multi-agent swarm intelligence OS.
 
 <br clear="right"/>
 
