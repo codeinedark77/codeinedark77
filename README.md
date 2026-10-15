@@ -5,14 +5,14 @@
 <!-- HERO HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Yash%20Kandhare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Backend%20Developer&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1117&height=220&section=header&text=Yash%20Kandhare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architecture%20%E2%80%A2%20Autonomous%20AI%20%E2%80%A2%20Low-Level%20Infrastructure&descAlignY=62&descSize=16&descColor=a78bfa" width="100%" />
 
 </div>
 
 <!-- TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+complex+hardware-level+systems;C+%7C+Go+%7C+Rust+%7C+PyTorch;Turning+compute+limits+into+performance+art;Open+to+exciting+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+complex+hardware-level+systems;C+%7C+Go+%7C+Rust+%7C+PyTorch;Turning+compute+limits+into+performance+art;Architecting+Autonomous+AI+%26+Zero-Trust+Kernel+Security)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=codeinedark77&style=flat-square&color=a78bfa)](https://github.com/codeinedark77)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/codeinedark77?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/codeinedark77?tab=followers)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/codeinedark77?label=Total%20Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/codeinedark77)&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)&nbsp;
 ![Location](https://img.shields.io/badge/Pune%2C%20India-a78bfa?style=flat-square&labelColor=0d1117)
 
 </div>
@@ -40,23 +39,26 @@
 
 ```yaml
 name     : Yash Kandhare
-role     : Systems & ML Engineer
+role     : Systems Architect & Autonomous AI Engineer
 location : Pune, India
-current  : Building High-Performance Kernel Modules & LLM Infrastructure
-building : Agentic OS · B+Tree Storage Engines · Hardware Optimization
+current  : Building Ring-0 Kernel Telemetry, Distributed Engines & LLM Quantization
+building : JARVIS-OS-9R · B+Tree Storage Engines · Pure Go Hybrid RAG · KV-Cache Quant
 stack    : C · C++ · Rust · Go · Python · PyTorch
-learning : Low-level x86 Architecture & Distributed Systems
+systems  : eBPF Linux/Android Kernel · Distributed Consensus (Raft) · Hardware Optimization
 contact  : yashkandhare [at] gmail [dot] com
-fact     : I write storage engines and kernel modules for fun.
+fact     : I write storage engines, eBPF probes, and compilers from scratch for fun.
 ```
 
 <br/>
 
-- Built **eBPF-Kernel-Security** — Ring-0 and Ring-3 kernel modules in C.
-- Engineered **Kiln** — High-performance concurrent B+Tree storage engine in Go.
-- Implemented **TurboQuant-Lite** — Mathematical KV-Cache compression for PyTorch LLMs.
-- Created **[local-secret-scanner](https://github.com/codeinedark77/local-secret-scanner)** — High-throughput local secret scanner in Rust.
-- Building **[Agentic_](https://github.com/codeinedark77/Agentic_)** — Multi-agent swarm intelligence OS.
+- 🧠 **[JARVIS-OS-9R](https://github.com/codeinedark77/JARVIS-OS-9R)** — Autonomous edge AI operating system with ring-0 eBPF telemetry, local voice loop (Silero/Whisper/Kokoro), and Frida dynamic analysis.
+- 🛡️ **[DriftNet-Kernel-Guard](https://github.com/codeinedark77/DriftNet-Kernel-Guard)** — Ring-0 and Ring-3 eBPF kernel security modules in C with sub-2µs SIGKILL mitigation.
+- ⚡ **[ragsearch](https://github.com/codeinedark77/ragsearch)** — High-performance distributed hybrid search & RAG engine in pure Go with custom HNSW vector index, BM25, and WAL persistence.
+- 🗄️ **[kiln-storage-engine](https://github.com/codeinedark77/kiln-storage-engine)** — High-performance concurrent ACID B+Tree relational storage engine in Go with crash-safe rollback journals.
+- 📐 **[turboquant-lite](https://github.com/codeinedark77/turboquant-lite)** — Mathematical KV-cache Lloyd-Max quantization engine for PyTorch LLMs, engineered for consumer VRAM constraints.
+- 🔍 **[Sieve-Secret-Scanner](https://github.com/codeinedark77/Sieve-Secret-Scanner)** — High-throughput AST and Shannon-entropy secret scanner and SAST engine written in Rust.
+- 🌐 **[Aegis-Agent-Registry](https://github.com/codeinedark77/Aegis-Agent-Registry)** — High-assurance autonomous agent registry, state machine lifecycle management, and token gate.
+- ☀️ **[helios-3d-renderer](https://github.com/codeinedark77/helios-3d-renderer)** — Pure Go physically-based Monte Carlo path tracer with importance sampling and multi-material optics.
 
 <br clear="right"/>
 
@@ -114,24 +116,34 @@ fact     : I write storage engines and kernel modules for fun.
 ## Selected Engineering Projects
 
 <div align="center">
-  <a href="https://github.com/codeinedark77/industrial-anomaly-detector">
-    <img src="https://gh-card.dev/repos/codeinedark77/industrial-anomaly-detector.svg" />
+  <a href="https://github.com/codeinedark77/JARVIS-OS-9R">
+    <img src="https://gh-card.dev/repos/codeinedark77/JARVIS-OS-9R.svg" />
   </a>
-  <a href="https://github.com/codeinedark77/aqi-data-pipeline">
-    <img src="https://gh-card.dev/repos/codeinedark77/aqi-data-pipeline.svg" />
+  <a href="https://github.com/codeinedark77/DriftNet-Kernel-Guard">
+    <img src="https://gh-card.dev/repos/codeinedark77/DriftNet-Kernel-Guard.svg" />
   </a>
-  <a href="https://github.com/codeinedark77/helios-3d-renderer">
-    <img src="https://gh-card.dev/repos/codeinedark77/helios-3d-renderer.svg" />
+  <a href="https://github.com/codeinedark77/ragsearch">
+    <img src="https://gh-card.dev/repos/codeinedark77/ragsearch.svg" />
   </a>
   <br/>
   <a href="https://github.com/codeinedark77/kiln-storage-engine">
     <img src="https://gh-card.dev/repos/codeinedark77/kiln-storage-engine.svg" />
   </a>
-  <a href="https://github.com/codeinedark77/eBPF-Kernel-Security">
-    <img src="https://gh-card.dev/repos/codeinedark77/eBPF-Kernel-Security.svg" />
-  </a>
   <a href="https://github.com/codeinedark77/turboquant-lite">
     <img src="https://gh-card.dev/repos/codeinedark77/turboquant-lite.svg" />
+  </a>
+  <a href="https://github.com/codeinedark77/Sieve-Secret-Scanner">
+    <img src="https://gh-card.dev/repos/codeinedark77/Sieve-Secret-Scanner.svg" />
+  </a>
+  <br/>
+  <a href="https://github.com/codeinedark77/helios-3d-renderer">
+    <img src="https://gh-card.dev/repos/codeinedark77/helios-3d-renderer.svg" />
+  </a>
+  <a href="https://github.com/codeinedark77/ICS-Telemetry-Sentinel">
+    <img src="https://gh-card.dev/repos/codeinedark77/ICS-Telemetry-Sentinel.svg" />
+  </a>
+  <a href="https://github.com/codeinedark77/Aegis-Agent-Registry">
+    <img src="https://gh-card.dev/repos/codeinedark77/Aegis-Agent-Registry.svg" />
   </a>
 </div>
 
@@ -141,7 +153,14 @@ fact     : I write storage engines and kernel modules for fun.
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeinedark77&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeinedark77&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeinedark77&theme=radical&hide_border=true" width="48%" />
+
+</div>
+<br/>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeinedark77&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
