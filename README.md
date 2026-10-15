@@ -42,7 +42,7 @@ name     : Yash Kandhare
 role     : Systems Architect & Autonomous AI Engineer
 location : Pune, India
 current  : Building Ring-0 Kernel Telemetry, Distributed Engines & LLM Quantization
-building : JARVIS-OS-9R · B+Tree Storage Engines · Pure Go Hybrid RAG · KV-Cache Quant
+building : JARVIS-9R Edge Platform · B+Tree Storage Engines · Pure Go Hybrid RAG · KV-Cache Quant
 stack    : C · C++ · Rust · Go · Python · PyTorch
 systems  : eBPF Linux/Android Kernel · Distributed Consensus (Raft) · Hardware Optimization
 contact  : yashkandhare [at] gmail [dot] com
@@ -51,7 +51,7 @@ fact     : I write storage engines, eBPF probes, and compilers from scratch for 
 
 <br/>
 
-- 🧠 **[JARVIS-OS-9R](https://github.com/codeinedark77/JARVIS-OS-9R)** — Autonomous edge AI operating system with ring-0 eBPF telemetry, local voice loop (Silero/Whisper/Kokoro), and Frida dynamic analysis.
+- 🧠 **[JARVIS-OS-9R](https://github.com/codeinedark77/JARVIS-OS-9R)** — Autonomous edge AI runtime & mobile orchestrator with ring-0 eBPF telemetry, local voice loop (Silero/Whisper/Kokoro), and Frida dynamic analysis.
 - 🛡️ **[DriftNet-Kernel-Guard](https://github.com/codeinedark77/DriftNet-Kernel-Guard)** — Ring-0 and Ring-3 eBPF kernel security modules in C with sub-2µs SIGKILL mitigation.
 - ⚡ **[ragsearch](https://github.com/codeinedark77/ragsearch)** — High-performance distributed hybrid search & RAG engine in pure Go with custom HNSW vector index, BM25, and WAL persistence.
 - 🗄️ **[kiln-storage-engine](https://github.com/codeinedark77/kiln-storage-engine)** — High-performance concurrent ACID B+Tree relational storage engine in Go with crash-safe rollback journals.
