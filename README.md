@@ -55,6 +55,7 @@ fact     : I write storage engines, eBPF probes, and compilers from scratch for 
 - 🛡️ **[DriftNet-Kernel-Guard](https://github.com/codeinedark77/DriftNet-Kernel-Guard)** — Ring-0 and Ring-3 eBPF kernel security modules in C with sub-2µs SIGKILL mitigation.
 - 📡 **[quietwire](https://github.com/codeinedark77/quietwire)** — Zero-dependency passive ICS/OT protocol analyzer (Modbus, DNP3, S7comm, IEC 60870-5-104) with GRE/VXLAN decapsulation, SARIF 2.1.0 output, and HMAC audit chains.
 - 🏛️ **[quorum](https://github.com/codeinedark77/quorum)** — Deterministic, ultra-pure Raft consensus implementation in Go with 0 goroutines, 0 sockets, and 0 timers in core, PreVote, ReadIndex linearizability, and seed-based simulation.
+- 🎲 **[simtest](https://github.com/codeinedark77/simtest)** — Deterministic simulation framework and Wing-Gong-Lowe linearizability checker for distributed state machines in Go.
 - ⚡ **[ragsearch](https://github.com/codeinedark77/ragsearch)** — High-performance distributed hybrid search & RAG engine in pure Go with custom HNSW vector index, BM25, and WAL persistence.
 - 🗄️ **[kiln-storage-engine](https://github.com/codeinedark77/kiln-storage-engine)** — High-performance concurrent ACID B+Tree relational storage engine in Go with crash-safe rollback journals.
 - 📐 **[turboquant-lite](https://github.com/codeinedark77/turboquant-lite)** — Mathematical KV-cache Lloyd-Max quantization engine for PyTorch LLMs, engineered for consumer VRAM constraints.
@@ -131,23 +132,26 @@ fact     : I write storage engines, eBPF probes, and compilers from scratch for 
   <a href="https://github.com/codeinedark77/quorum">
     <img src="https://gh-card.dev/repos/codeinedark77/quorum.svg" />
   </a>
+  <a href="https://github.com/codeinedark77/simtest">
+    <img src="https://gh-card.dev/repos/codeinedark77/simtest.svg" />
+  </a>
   <a href="https://github.com/codeinedark77/ragsearch">
     <img src="https://gh-card.dev/repos/codeinedark77/ragsearch.svg" />
   </a>
+  <br/>
   <a href="https://github.com/codeinedark77/kiln-storage-engine">
     <img src="https://gh-card.dev/repos/codeinedark77/kiln-storage-engine.svg" />
   </a>
-  <br/>
   <a href="https://github.com/codeinedark77/turboquant-lite">
     <img src="https://gh-card.dev/repos/codeinedark77/turboquant-lite.svg" />
   </a>
   <a href="https://github.com/codeinedark77/Sieve-Secret-Scanner">
     <img src="https://gh-card.dev/repos/codeinedark77/Sieve-Secret-Scanner.svg" />
   </a>
+  <br/>
   <a href="https://github.com/codeinedark77/ICS-Telemetry-Sentinel">
     <img src="https://gh-card.dev/repos/codeinedark77/ICS-Telemetry-Sentinel.svg" />
   </a>
-  <br/>
   <a href="https://github.com/codeinedark77/Aegis-Agent-Registry">
     <img src="https://gh-card.dev/repos/codeinedark77/Aegis-Agent-Registry.svg" />
   </a>
