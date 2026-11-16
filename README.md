@@ -244,6 +244,13 @@ fact     : I write storage engines, eBPF probes, and compilers from scratch for 
 
 ---
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <!-- FOOTER -->
 <div align="center">
 
